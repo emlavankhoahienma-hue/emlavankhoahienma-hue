@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://github.com/emlavankhoahienma-hue">
-      <img src="https://komarev.com/ghpvc/?username=emlavankhoahienma-hue&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="https://hits.sh/github.com/emlavankhoahienma-hue.svg?style=flat-square&label=PROFILE+VIEWS&color=8a2be2" alt="Profile Views" />
     </a>
   </p>
 </div>
