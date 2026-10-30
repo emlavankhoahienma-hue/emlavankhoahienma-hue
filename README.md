@@ -51,3 +51,5 @@
 <div align="center">
   <p><sub>"Always be curious. Keep building, breaking, and learning."</sub></p>
 </div>
+
+- **Official Website (Align Studio / AI Compose):** https://emlavankhoahienma-hue.github.io/ai-smart-framing-camera/
